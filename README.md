@@ -1,2 +1,1 @@
-# FoxScanner
-![My Image](img/title.png)
+![TitleBar](img/title.png)
