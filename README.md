@@ -1,2 +1,2 @@
 # FoxScanner
-![My Image](imgs/title.png)
+![My Image](img/title.png)
